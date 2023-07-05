@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.QR{
+    text-align: center !important;
+    align-items: center !important;
+    align-content:  center !important;
+    justify-content: center !important;
+}
+
+.text2{
+    text-decoration: underline;
+    color: #e61c1c;
+}
